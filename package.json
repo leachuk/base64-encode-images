@@ -1,0 +1,15 @@
+{
+  "name": "base64-encode-images",
+  "version": "1.0.0",
+  "description": "Convert image urls into inline base64 strings so all images are embedded in the html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-inline": "^0.3.6"
+  }
+}
